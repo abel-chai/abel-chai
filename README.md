@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://raw.githubusercontent.com/abel-chai/abel-chai/main/assets/github-contribution-grid-snake.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel-chai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
